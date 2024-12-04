@@ -1,0 +1,1 @@
+Sample application for https://www.kafkaworkshop.com/articles/how-to-create-kafka-idempotent-consumer-in-spring/#/ article.
